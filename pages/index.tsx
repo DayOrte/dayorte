@@ -113,7 +113,7 @@ export default function LandingPage() {
           </Heading>
         </CardHeader>
       </Card>
-      <SimpleGrid columns={[1, null, 2, null, 3]} spacing="5" mt="5">
+      <SimpleGrid columns={[1, null, 2, null, 3]} spacing="5" mt="5" pb="10">
         <Project title="Naturally Psychedelic">
           <CaptionCarousel
             path={"/naturally-psychedelic"}

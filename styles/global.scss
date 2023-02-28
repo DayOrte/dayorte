@@ -4,3 +4,12 @@ body {
     background-attachment: fixed !important;
     background-size: cover !important;
 }
+
+html {
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll; 
+    ::-webkit-scrollbar {
+        display: none;
+    }
+}
