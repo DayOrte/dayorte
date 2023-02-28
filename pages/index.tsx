@@ -98,7 +98,7 @@ export default function LandingPage() {
               align={"center"}
               w={"100%"}
               h={"100%"}
-              src="/main_pic.jpg"
+              src="/selfie.jpg"
             />
           </Box>
         </Flex>
