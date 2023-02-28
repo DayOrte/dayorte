@@ -123,13 +123,13 @@ export default function LandingPage() {
         <Project title="Dad's Farm">
           <CaptionCarousel path={"/dad"} image_count={1}></CaptionCarousel>
         </Project>
-        <Project title="Valentines Requests">
+        <Project title="Valentine's Day Requests">
           <CaptionCarousel
             path={"/valentines"}
             image_count={5}
           ></CaptionCarousel>
         </Project>
-        <Project title="Michoacan">
+        <Project title="Women from Michoacan">
           <CaptionCarousel
             path={"/michoacan"}
             image_count={4}
